@@ -1,4 +1,5 @@
-# <img src="https://user-images.githubusercontent.com/69137860/99356371-62825180-28ed-11eb-902e-159ca9cb872c.gif" width="50" height="50">  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=1000&color=000000&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&width=435&lines=HI%2C+I'm+DaBin.;I'm+currently+studying+Front-end." alt="Typing SVG" /></a>
+<img src="https://user-images.githubusercontent.com/69137860/99356371-62825180-28ed-11eb-902e-159ca9cb872c.gif" width="50" height="50">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=1000&color=000000&width=435&lines=Hi%2C+I'm+DaBin.;I'm+currently+studying+Front-end." alt="Typing SVG" /></a>
 
 
 <!--
@@ -16,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabinnkim)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabinnkim&layout=compact&bg_color=DEG)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
