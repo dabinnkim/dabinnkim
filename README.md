@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello! ![99356371-62825180-28ed-11eb-902e-159ca9cb872c](https://user-images.githubusercontent.com/107906438/215774630-19002729-6cdc-4f4a-8188-b0266814904e.gif)
+
+
+My Github at a glance:
 
 <!--
 **dabinnkim/dabinnkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
